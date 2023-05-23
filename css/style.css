@@ -1,0 +1,72 @@
+section {
+    padding: 50px 0px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+.clear {
+    clear: both;
+}
+
+
+
+/* ------------------------------------------ */
+
+
+nav {
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+
+.img-div {
+    float: left;
+}
+
+.img-div img {
+    width: 150px;
+}
+
+.menu {
+    float: right;
+}
+
+.menu p {
+    display: inline-block;
+}
+
+
+
+
+.title p {
+    color: #4154f1;
+    font-size: 24px;
+}
+
+
+h2,
+h3 {
+    color: #012970;
+}
+
+
+.up .values {
+    border: 1px solid rgba(192, 192, 192, 0.252);
+    width: 30%;
+    float: left;
+    margin: 0 5px;
+    padding: 40px 0px;
+}
+
+
+.up .values p {
+    color: #444444;
+    padding: 0px 30px;
+}
+
+.up .values img {
+    width: 70%;
+}
